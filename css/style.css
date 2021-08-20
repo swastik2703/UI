@@ -1,3 +1,10 @@
+.header{
+    font-size: 3.5rem;
+    background-color:black;
+    color: white;
+    margin: 0%;
+}
+
 *{
     scroll-behavior: smooth;
 }
@@ -9,7 +16,7 @@
 
 .navbar{
     font-size: 26px;
-    background-color: palevioletred;
+    background-color:skyblue;
 
 }
 .taj{
@@ -31,6 +38,17 @@
 .mail{
     font-size: 25px;
 }
+
+.xyz{
+    background-color:honeydew ;
+}
+
+
+
+
+
+
+
 
 
 
